@@ -36,7 +36,7 @@ Installation
 
 Clone this repository:
 
-git clone 
+git clone https://github.com/its-anamika-anand/Rock-Paper-Scissors.git
 Navigate to the project directory:
 
 cd rock-paper-scissors
@@ -80,6 +80,8 @@ Fork the repository.
 Create a new branch for your feature:
 
 git checkout -b feature-name
+
+GitHub clone https://github.com/its-anamika-anand/Rock-Paper-Scissors.git
 
 Commit your changes:
 
